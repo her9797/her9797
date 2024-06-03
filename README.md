@@ -17,11 +17,15 @@
 ---
   ### 💻My github💻
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=her9797&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=her9797&show_icons=true&theme=radical)
 
   
   
   </div>
+![javascript](https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+
+
+  </div
 
 
 <!--
