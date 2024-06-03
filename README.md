@@ -33,4 +33,3 @@
 <img align="left" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 <img align="left" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-<img align="left" alt="Coding" height="60" width="60" src="https://raw.githubusercontent.com/AaronCQL/AaronCQL/master/assets/Rolling-1s-200px.svg">
