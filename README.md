@@ -23,7 +23,7 @@
 --- 
  
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 
   </div
 
