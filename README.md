@@ -25,7 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=로고색상)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
