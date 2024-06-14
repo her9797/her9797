@@ -10,9 +10,9 @@
 </div>
 <div align=center>
   
-    <a href="mailto:hermes970120@naver.com">
-<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
-    </a>
+<a href="mailto:hermes970120@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+</a>
   <a href="https://www.instagram.com/min.sup/coding_ori">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">  
   <a href="https://www.youtube.com/@her97/coding_ori">
