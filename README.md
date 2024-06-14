@@ -36,6 +36,8 @@
 ![github](https://img.shields.io/badge/github-F05032.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-2C2255.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/>
+
 
 
   </div
