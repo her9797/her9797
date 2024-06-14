@@ -1,4 +1,5 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=280&section=header&text=HER's%20room&fontSize=90)
 
   
@@ -52,6 +53,7 @@
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-2C2255.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
 
 
