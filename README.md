@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=280&section=header&text=Welcome%20her's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=280&section=header&text=Her's%20Github&fontSize=90)
 
   
 ## Hi✋ I'm HER!   
