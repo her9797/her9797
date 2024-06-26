@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=280&section=header&text=Her's%20Github&fontSize=90)
 
   
-## Welcome Minsup's GITHUB !
+## Hi I'm Minseop !
    
 ### 🏳️‍🌈SNS🏳️‍🌈
 
