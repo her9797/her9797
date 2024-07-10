@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=280&section=header&text=Her's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:00BFFF,100:00BFFF&height=280&section=header&text=Her's%20Github&fontSize=90&width=100%)
+
   
   ## Hi there, I'm Minseop! 👋
    
@@ -76,6 +77,12 @@
 
   ---
 
-  <img src="https://github.com/her9797/her9797/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/her9797/her9797/blob/output/github-snake-dark.svg" width="100%">
+
+<br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fher9797&count_bg=%233667B2&title_bg=%238E8E8E&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00BFFF&height=120&section=footer)
