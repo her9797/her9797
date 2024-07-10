@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:00BFFF,100:00BFFF&height=280&section=header&text=Her's%20Github&fontSize=90&width=100%)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:00BFFF,100:00BFFF&height=280&section=header&text=Minseop%20Sim&fontSize=90&width=100%)
 
   
   ## Hi there, I'm Minseop! 👋
